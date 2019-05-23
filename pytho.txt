@@ -1,0 +1,40 @@
+"SmartObjectTypeId": "a73925a2-835a-4fe7-b3f6-20dd0865d18e",
+
+ResourceType id: "4b3fc01d-e63e-45d8-a011-52bed6a009fc"
+
+device type id: "Id": "9a3e99dc-243f-4090-b6c3-3a28b28bf258"
+
+smartobjecttemplate ids: "ff7023b9-4c95-4de7-ac4c-8df5f4843ef4"
+
+
+C:\Python27\Lib;C:\Python27\DLLs;C:\Python27\Lib\lib-tk;C:\Python27\Scripts
+
+"LocationId": "b61e00c2-38dc-4aed-a2c9-1bb721df1032",
+
+Device template id: "1c88394b-0488-4391-b220-68a140ed23a5"
+
+
+robot -P testlib/ -V Variables/DeviceNetwork1.py Tests/TC_001_Get_Request.robot 
+
+
+https://ddmiit-api.ddm.iot-accelerator.ericsson.net/
+
+4386280036500498
+01/22
+
+C:\Users\exxxudh\appiot-ci>python -m robot.run robot-tests\Tests\Sample.robot
+
+662
+C:\Python37\python.exe -m robot.run GET_Request\TC_001_Get_Request.robot
+
+python -m robot.run Tests\Sample.robot
+
+python -m robot.run GET_Request\TC_001_Get_Request.robot
+
+Clear the screen in python powershell
+
+import os
+>>>os.system('cls')
+
+return 0
+
